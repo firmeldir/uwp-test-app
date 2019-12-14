@@ -1,0 +1,1 @@
+D:\OOPLabs\lab5\UWP\UWP\UWP.csproj;x86
